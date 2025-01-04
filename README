@@ -1,0 +1,18 @@
+Unpacked/Optimized version of UT1 Blacklists
+
+See original version here: https://dsi.ut-capitole.fr/blacklists/index_en.php
+
+Optimizations:
+
+- Split IP-Addresses off into their own file (ips)
+- Unduplicate and make domains inclusive of subdomains (remove redundant sub-domains)
+- Make all domains lower-case
+- Filter out invalid (syntax) domains (domains.invalid)
+- Filter out URLs that can be used as domains (urls.domains)
+- Remove empty files
+
+Where original files are modified they are backupped/retained and given the .original file-name extension.
+
+
+I do NOT maintain these lists and/or their content, for questions/problems/etc, please contact the original maintainer here: fabrice.prigent@ut-capitole.fr or go to https://dsi.ut-capitole.fr/cgi-bin/squidguard_modify.cgi (to add/remove).
+
