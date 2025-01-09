@@ -13,6 +13,7 @@
 0.0.0.0amvest-capital.com
 0.0.0.0analitics-service.com
 0.0.0.0antminers-bitmain.com
+0.0.0.0aod-tech.com
 0.0.0.0apex-crypto.com
 0.0.0.0apple-bitcoin.com
 0.0.0.0arux-money.com
@@ -29,6 +30,7 @@
 0.0.0.0bitcoin-game.de
 0.0.0.0bitcoin-russia.ru
 0.0.0.0bitcoin-ukraine.com.ua
+0.0.0.0bitcoin.dashjr.org
 0.0.0.0bitcoinp2pool.zapto.org
 0.0.0.0bitcoln.weebly.com
 0.0.0.0black-pool.net
@@ -363,6 +365,7 @@ amvest-capital.com
 analitics-service.com
 antminers-bitmain.com
 antpool.com
+aod-tech.com
 apex-crypto.com
 apple-bitcoin.com
 arctic-crypto.com
@@ -397,6 +400,7 @@ bitcoin-russia.ru
 bitcoin-ukraine.com.ua
 bitcoin.com.cdn.cloudflare.net
 bitcoin.cz
+bitcoin.dashjr.org
 bitcoin.org
 bitcoincore.org
 bitcoinp2pool.zapto.org
@@ -571,7 +575,6 @@ explorer.litecoin.net
 f0261452.xsph.ru
 f2pool.com
 fasthash.hopto.org
-faucethub.io
 fearmypenguin.ath.cx
 feexmrminer.servepics.com
 findblocks.co.uk
