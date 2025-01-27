@@ -1,0 +1,64 @@
+
+adult 	Some adult site from erotic to hard pornography.
+agressif 	Some aggressive sites.
+arjel 	ARJEL which is a french certification authority for gambling sites
+associations_religieuses 	religious_association
+astrology 	Astrology
+audio-video 	Some audio and video sites.
+bank 	Online bank
+bitcoin 	Sites for bitcoin mining
+blog 	Some blogs sites.
+celebrity 	Famous people, actors, and magazine which talk about them
+chat 	Chat site
+child 	Any website allowed to child (less than 10 years old)
+cleaning 	Sites to disinfect, update and protect computers.
+cooking 	Sites for cooking
+cryptojacking 	Mining site by hijacking
+dangerous_material 	Sites which describe how to make bomb and some dangerous material.
+dating 	Dating, matching site for single person
+ddos 	DDoS or Stresser Sites
+dialer 	Dialer Sites
+doh 	Site which provides DNS over HTTP service
+download 	Sites which propose to download software
+drogue 	Sites relative to drugs.
+educational_games 	educational games sites (flash and online games )
+examen_pix 	A list reserved exclusively for French students taking the PIX exam. DO NOT USE in other circumstances
+fakenews 	Site which provides fakenews
+filehosting 	Websites which host files (pictures, video, ...)
+financial 	Sites relative financial information.
+forums 	Forums site.
+gambling 	Gambling and games sites, casino, etc.
+games 	games sites (flash and online games )
+hacking 	Hacking sites.
+jobsearch 	Site to looking for job
+lingerie 	Sites for lingerie
+liste_bu 	A french list for educational sites. VERY locally oriented. may help libraries.
+malware 	Any website which deliver malware
+manga 	Any website related to manga, and cartoons
+marketingware 	Very special marketing sites
+mixed_adult 	Websites which contains adult sections unstructured
+mobile-phone 	Sites for mobile phone (rings, etc).
+phishing 	Phishing sites (same as malware category)
+press 	Any press (informational) site
+publicite 	Advertisement.
+radio 	Internet radio sites
+reaffected 	Websites which have been reaffected
+redirector 	Some redirector sites, which are used to circumvent filtering.
+remote-control 	site which allow remote control of user s dekstop
+residential_proxies Site which provides residential_proxies
+sect 	Sect
+sexual_education 	Website which talk about sexual education, and can be misdetected as porn
+shopping 	Any shopping, selling center
+shortener 	URLs shortening sites
+social_networks 	All social networks sites
+sports 	Sports
+stalkerware 	Site which sells spying software for everybody
+strict_redirector 	Same as redirector, but with google, yahoo, and other cache/images search robots.
+strong_redirector 	Same as strict_redirector, but, for google, yahoo, we are only blocking some terms.
+translation 	Sites for translation
+tricheur 	Sites which are designed to explains cheating on exams.
+tricheur_pix 	DO NOT USE. It s a specific blacklist for french exam.
+update 	Update sites for software or OS
+vpn 	VPN site
+warez 	Warez sites.
+webmail 	Webmail sites (hotmail like...)
