@@ -1,6 +1,5 @@
 2.dnscrypt-cert.opendns.com
 2dns.duckdns.org
-77980.bodis.com
 aattwwss.duckdns.org
 ad1guard.duckdns.org
 adblock-larssonshus.duckdns.org
@@ -12,11 +11,9 @@ adguardhome.ponetwork.duckdns.org
 adguardhome.westeurope.cloudapp.azure.com
 adguardhulst.duckdns.org
 akhilkalwakurthy.dyndns.org
-akylah.zapto.org
 andresmanuel.duckdns.org
 automaton-mm1.duckdns.org
 azagramac.duckdns.org
-b2u7d7r9.stackpathcdn.com
 baedns.duckdns.org
 blitzd.co.uk
 bushmancastle.duckdns.org
@@ -31,7 +28,6 @@ clubsv.duckdns.org
 connect.edmoon.co.uk
 controld.com
 crd.circl.lu
-d2bphvjyj895l0.cloudfront.net
 darthodroid.duckdns.org
 davidcampos.duckdns.org
 debian-01.eastasia.cloudapp.azure.com
@@ -39,14 +35,11 @@ derekcastle.duckdns.org
 deus-server.duckdns.org
 dns-family.adguard.com
 dns-family.duckdns.org
-dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com
-dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com
 dns-unfiltered.adguard.com
 dns.233py.com.cdn.cloudflare.net
 dns.aa.net.uk
 dns.ac-weather.com
 dns.adguard.com
-dns.adups.com
 dns.api.gandi.net
 dns.api.globus.org
 dns.api.preview.globus.org
@@ -95,11 +88,7 @@ doh2.gslb2.xfinity.com
 dohtrial.att.net
 dot.360.cn
 dot.xfinity.com
-dotdown.netlify.app
-dubere.home.ro
-ec2-52-12-183-214.us-west-2.compute.amazonaws.com
 ermisguard.westeurope.cloudapp.azure.com
-eu-opush-heytapmobile-pubgw-1244993624.eu-west-3.elb.amazonaws.com
 eweyo-de1.duckdns.org
 eweyo.duckdns.org
 familyshield.opendns.com
@@ -155,12 +144,10 @@ piholeddns.duckdns.org
 pixie.porkbun.com
 privdns.duckdns.org
 punono.duckdns.org
-q3i6k7j3.stackpathcdn.com
 qlee.eastasia.cloudapp.azure.com
 qlee0001.eastasia.cloudapp.azure.com
 qlf-doh.inria.fr
 quad9.net
-r4u2c9i5.stackpathcdn.com
 rabanete.duckdns.org
 radia.bortzmeyer.org
 rdjcloud.duckdns.org
