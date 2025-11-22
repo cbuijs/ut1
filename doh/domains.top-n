@@ -1,7 +1,6 @@
 2.alpo.pp.ua
 2.dnscrypt-cert.blahdns.com
 2.dnscrypt-cert.browser.yandex.net
-2.dnscrypt-cert.captnemo.in
 2.dnscrypt-cert.ffmuc.net
 2.dnscrypt-cert.opendns.com
 2dns.duckdns.org
@@ -71,6 +70,7 @@ c-dns.com
 c1.yydsgod.eu.org
 canadianshield.cira.ca
 canyong1984.eu.org
+captnemo.in
 carioka.dyndns.org
 cattery2.eastasia.cloudapp.azure.com
 ccadguard.ddns.net
@@ -157,6 +157,7 @@ dns.shimul.me
 dns.startupstack.tech
 dns.surfshark.com
 dns.swehosting.se
+dns.switch.ch
 dns.telekom.de
 dns.twnic.tw
 dns.uk-london-1.oci.oraclecloud.com
@@ -209,7 +210,6 @@ doh.beauty
 doh.blahdns.com
 doh.bt.com
 doh.buzz
-doh.captnemo.in
 doh.centraleu.pi-dns.com
 doh.cox.net
 doh.de.blahdns.com
@@ -236,6 +236,7 @@ doh.opendns.com
 doh.pi-dns.com
 doh.quickline.ch
 doh.safesurfer.io
+doh.sandbox.opendns.com
 doh.sb
 doh.sidnlabs.nl
 doh.umbrella.com
@@ -461,7 +462,6 @@ slb.japaneast.cloudapp.azure.com
 soeding.ddnss.de
 sradg.eastus.cloudapp.azure.com
 sradminfk.ddns.net
-static.captnemo.in
 stuxen.duckdns.org
 sv.oispace.eu.org
 sweethome.in.eu.org

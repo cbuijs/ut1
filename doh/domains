@@ -19,7 +19,6 @@
 2.dns.noridev.moe
 2.dnscrypt-cert.blahdns.com
 2.dnscrypt-cert.browser.yandex.net
-2.dnscrypt-cert.captnemo.in
 2.dnscrypt-cert.ffmuc.net
 2.dnscrypt-cert.opendns.com
 2.dnscrypt-cert.shield-2.dnsbycomodo.com
@@ -551,6 +550,7 @@ caifuwu.com
 callies-online.site
 canadianshield.cira.ca
 canyong1984.eu.org
+captnemo.in
 carioka.dyndns.org
 carrotegg.club
 catdns.org
@@ -1315,6 +1315,7 @@ dns.surfshark.com
 dns.surobe.com
 dns.swehosting.se
 dns.swin.pro
+dns.switch.ch
 dns.syaifullah.com
 dns.t53.de
 dns.tacomafia.net
@@ -1609,7 +1610,6 @@ doh.bortzmeyer.fr
 doh.bt.com
 doh.bugdns.com
 doh.buzz
-doh.captnemo.in
 doh.ccb-net.it
 doh.centraleu.pi-dns.com
 doh.cloud-sekeng.com
@@ -1690,6 +1690,7 @@ doh.rasmusminde.dk
 doh.rezhajul.io
 doh.sa-sa.eu
 doh.safesurfer.io
+doh.sandbox.opendns.com
 doh.sb
 doh.seby.io
 doh.sidnlabs.nl
@@ -2529,6 +2530,7 @@ prysiazhniuk.pp.ua
 ps-tel-w-2.nashkan.net
 ps1.modr.club
 pt-lis-w-1.nashkan.net
+public.dns.iij.jp
 publique.gouasmi.site
 pukanuragan.ru
 punono.duckdns.org
@@ -2738,7 +2740,6 @@ ssydb.gq
 staging.dnsteam.globuscs.info
 stalent.ovh
 standard.kxy.ink
-static.captnemo.in
 statistics.larryvpn.com
 staycute.xyz
 steff.sbs
