@@ -101,9 +101,11 @@ deus-server.duckdns.org
 dgca.myds.me
 dislike.eu.org
 dltkhn01.ddns.net
+dns-any.jupitrdns.com
 dns-family.adguard.com
 dns-family.duckdns.org
 dns-prod-bc43efde54c7e228.elb.us-east-1.amazonaws.com
+dns-res-lux.jupitrdns.com
 dns-sandbox-3291100252b8f52b.elb.us-east-1.amazonaws.com
 dns-unfiltered.adguard.com
 dns.23-4.cn
@@ -138,6 +140,7 @@ dns.ha-dvin.pp.ua
 dns.hinet.net
 dns.hostux.net
 dns.islandnet.com
+dns.jupitrdns.com
 dns.kolar-it.com
 dns.korzhyk.pp.ua
 dns.magnon.duckdns.org
@@ -225,6 +228,7 @@ doh.ffmuc.net
 doh.greenwood.eu.org
 doh.gslb2.xfinity.com
 doh.ibr.cs.tu-bs.de
+doh.lacontrevoie.fr
 doh.libredns.gr
 doh.lululu.eu.org
 doh.lululujp.eu.org
