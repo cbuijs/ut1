@@ -116,7 +116,6 @@
 0.0.0.0halacostminer.000webhostapp.com
 0.0.0.0harvest.surge.sh
 0.0.0.0hashing.mine.nu
-0.0.0.0hl4eok5kj2bwr34x.onion.link
 0.0.0.0hobbyistpool.ddns.net
 0.0.0.0igeur9ghuiergui.kl.com.ua
 0.0.0.0ip.42.pl
@@ -128,7 +127,6 @@
 0.0.0.0j946244.myjino.ru
 0.0.0.0jbeupq84v7.2y.net
 0.0.0.0jhondi33.duckdns.org
-0.0.0.0jmqapf3nflatei35.onion.link
 0.0.0.0jqcdn01.herokuapp.com
 0.0.0.0jqcdn03.herokuapp.com
 0.0.0.0jqcdn2.herokuapp.com
@@ -171,12 +169,14 @@
 0.0.0.0n-engine.com
 0.0.0.0n3xt-pool.net
 0.0.0.0nadjibsoft.blogspot.com
+0.0.0.0node.eosflare.io
 0.0.0.0node869-mainnet.eosauthority.com
 0.0.0.0npcdn1.now.sh
 0.0.0.0nunu-001.now.sh
 0.0.0.0onlycash.ddns.net
 0.0.0.0open-hive-server-1.pp.ua
 0.0.0.0our-game.net
+0.0.0.0p2p.eosflare.io
 0.0.0.0p2pool-cologne.dyndns.org
 0.0.0.0p2pool.hopto.org
 0.0.0.0p2pool.neocities.org
@@ -516,7 +516,6 @@ hashing.mine.nu
 herominers.com
 hitbtc.com
 hiveos.farm
-hl4eok5kj2bwr34x.onion.link
 hobbyistpool.ddns.net
 hot-girls-sexy-pictures.blogspot.cz
 hot-girls-sexy-pictures.blogspot.de
@@ -1604,7 +1603,6 @@ jbeupq84v7.2y.net
 jcb-03.sytes.net
 jhondi33.duckdns.org
 jkc.sytes.net
-jmqapf3nflatei35.onion.link
 jonasschnelli.ch
 joyreactor.cc
 jqcdn01.herokuapp.com
@@ -1678,7 +1676,9 @@ namecoin.info
 nanopool.org
 neurai.org
 nicehash.com
+node.eosflare.io
 node869-mainnet.eosauthority.com
+novaco.in
 nownodes.io
 npcdn1.now.sh
 nunu-001.now.sh
@@ -1692,6 +1692,7 @@ onlycash.ddns.net
 open-hive-server-1.pp.ua
 openburstpool.ddns.net
 our-game.net
+p2p.eosflare.io
 p2pool-cologne.dyndns.org
 p2pool.hopto.org
 p2pool.neocities.org
