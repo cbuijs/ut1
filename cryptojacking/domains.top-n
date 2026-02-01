@@ -213,6 +213,7 @@
 0.0.0.0pocketminer.co.uk
 0.0.0.0pool-best.hopto.org
 0.0.0.0pool-pay.com
+0.0.0.0pool-proxy.com
 0.0.0.0pool.dogechain.info
 0.0.0.0poolvale.ddns.net
 0.0.0.0poppoob.no-ip.org
@@ -522,14 +523,11 @@ emercoin.com
 eos.staked.us
 eosbp.kuna.io
 eosnode.b1.ru
-ergoplatform.org
 errantshed.co.uk
 etc-pool.com
 etchash-pool.com
 etcturk.sytes.net
 eth.pp.ua
-ethermine.org
-ethfans.org
 eu-ethpool.ddns.net
 eu-nilupool.ddns.net
 eu-ubqpool.ddns.net
@@ -1754,6 +1752,7 @@ piti.bplaced.net
 pocketminer.co.uk
 pool-best.hopto.org
 pool-pay.com
+pool-proxy.com
 pool-x.io
 pool.dogechain.info
 pool.pm
