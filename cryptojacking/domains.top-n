@@ -29,7 +29,6 @@
 0.0.0.0bitcoin-game.de
 0.0.0.0bitcoin-russia.ru
 0.0.0.0bitcoin-ukraine.com.ua
-0.0.0.0bitcoin.dashjr.org
 0.0.0.0bitcoinp2pool.zapto.org
 0.0.0.0bitcoln.weebly.com
 0.0.0.0black-pool.net
@@ -213,6 +212,7 @@
 0.0.0.0pocketminer.co.uk
 0.0.0.0pool-best.hopto.org
 0.0.0.0pool-pay.com
+0.0.0.0pool-proxy.com
 0.0.0.0pool.dogechain.info
 0.0.0.0poolvale.ddns.net
 0.0.0.0poppoob.no-ip.org
@@ -384,7 +384,6 @@ bitcoin-game.de
 bitcoin-russia.ru
 bitcoin-ukraine.com.ua
 bitcoin.com.cdn.cloudflare.net
-bitcoin.dashjr.org
 bitcoin.org
 bitcoinp2pool.zapto.org
 bitcoins.sk
@@ -1751,10 +1750,10 @@ piti.bplaced.net
 pocketminer.co.uk
 pool-best.hopto.org
 pool-pay.com
+pool-proxy.com
 pool.dogechain.info
 pool.pm
 poolchia.ru.com
-poolhost.com
 poolin.com
 poolmzserveo.ngrok.io
 pooltool.io
