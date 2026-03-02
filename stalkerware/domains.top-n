@@ -9,6 +9,7 @@ a342f.appspot.com
 account.refog.com
 all-tracker.appspot.com
 alog.umeng.com
+android-api.umobix.com
 androidlost.appspot.com
 aniview.com
 api.clevguard.com
@@ -38,10 +39,19 @@ elcore-api.azurewebsites.net
 find-my-phone-prod.herokuapp.com
 flexispy.com
 hoverwatch.com
+im.theonespy.com
 laucass.forumactif.org
+lb.theonespy.com
 mg-spyzie.oss-us-west-1.aliyuncs.com
+mobile-tracker-data.com
 mspy.com
 mtechn.zendesk.com
+node-api.theonespy.com
+node1.theonespy.com
+node2.theonespy.com
+node3.theonespy.com
+node4.theonespy.com
+node5.theonespy.com
 panspy-1.oss-us-west-1.aliyuncs.com
 pctattletalev2.s3.amazonaws.com
 prog-money.com
@@ -52,6 +62,7 @@ screentimelabs.appspot.com
 servicesloggermobi.azurewebsites.net
 shadow-spy.com
 smartback-12d60.appspot.com
+snoopza.com
 spc-runtimes.s3.amazonaws.com
 spy-phone-app.com
 spyera.postaffiliatepro.com
@@ -62,8 +73,10 @@ tfk7r22klf8vtd8g90jq8qno1tpqhmpe.apps.googleusercontent.com
 traccar.org
 us-central1-api-project-285519687053.cloudfunctions.net
 us-central1-catwatchful-e03b8.cloudfunctions.net
+us.umobix.com
 v4vw4ytvo4.execute-api.us-east-2.amazonaws.com
 waws-prod-blu-247-e7b3.eastus.cloudapp.azure.com
 waws-prod-blu-247.sip.azurewebsites.windows.net
 wmdcommander.appspot.com
 wss.findmykids.org
+xnspy.com
