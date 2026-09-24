@@ -118,6 +118,8 @@
 101-764.pages.dev/th
 101supermarket.site/sadece-online-ozel/
 102.220.160.142/Bin/ScreenConnect.ClientSetup.exe
+102.220.160.223/Bin/ScreenConnect.ClientSetup.exe
+102.220.160.223/bin/support.client.exe
 102.220.160.93/Bin/ScreenConnect.ClientSetup.exe
 102.220.160.93/bin/support.client.exe
 102.220.161.39/shell.bat
@@ -218,6 +220,8 @@
 120.193.219.210/wget.sh
 120.26.164.252/linux
 1206.pages.dev/de/apps/windows
+121z2.ralind.at/trs
+121z2.ralind.at/trs/6Iqaws.php
 12221.pages.dev/about/terms
 12221.pages.dev/ar/apps/android
 123222.vip/ap
@@ -298,16 +302,9 @@
 130.12.181.99/Bin/ScreenConnect.ClientSetup.exe
 130.12.181.99/bin/support.client.exe
 13-114-104-147.cprapid.com/aruba/a1b2c3/
-13.140.176.180/armv5
-13.140.176.180/mips
-13.140.176.180/x86
-13.140.176.180/x86_64
 1314-78r.pages.dev/es/about/privacy
 1325v.com/ap/
 134tv.com/t/
-135461223.site/1997/4d0edf93-77fc-410f-9146-48767b992a51/758479
-135461223.site/pl/1997/4d0edf93-77fc-410f-9146-48767b992a51/758479
-135461223.site/pl/1997/4d0edf93-77fc-410f-9146-48767b992a51/758479/x
 13.71.2.244/.x/x
 138.124.60.116/s
 138.124.62.81/king.png
@@ -320,11 +317,12 @@
 14244299.com/partnership-history
 14244299.com/pt-BR
 14244299.com/pt-BR/
+142cee.ralind.at/referal
+142cee.ralind.at/referal/chatop27f2.php
 143.20.185.213/arm
 143.20.185.213/arm5
 143.20.185.213/arm6
 143.20.185.213/arm7
-143.20.185.213/ily.sh
 143.20.185.213/lol.sh
 143.20.185.213/mips
 143.20.185.213/mpsl
@@ -377,22 +375,19 @@
 152.42.202.172/pty3
 152.42.202.172/pty4
 1525jojobet.com/tr/
+154.126.186.59/.i
 154.70.152.216/zed
 1-556.pages.dev/ar/help
 1-556.pages.dev/de/about/accessibility
 1-556.pages.dev/sv
 1559004.cc/register
 156.251.11.121/aom.dat
+156.251.11.121/aom.jpg
 1566012.com/ap
 1568020.cc/register
 1-56s.pages.dev/ru
 1-579.pages.dev/about/knowledge/what-is-5g-faq
 158.94.208.79/armv7l
-158.94.210.129/DV/CRYPTED_STUB.ps1
-158.94.210.129/DV/OJCRYPTED_STUB.ps1
-158.94.210.129/GMT/HCRYPTED_STUB.ps1
-158.94.210.129/GMT/kCRYPTED_STUB.ps1
-158.94.210.129/GMT/kkCRYPTED_STUB.ps1
 1-59u.pages.dev/apps/android
 1-59u.pages.dev/it/about/ccpa
 1-59u.pages.dev/ja/apps/ios
@@ -429,7 +424,6 @@
 162.249.125.145/mips
 162.249.125.145/mipsel
 162.249.125.145/ooo.sh
-165.154.42.153/frpc
 165-dv7.pages.dev/apps/windows
 165-dv7.pages.dev/pt/apps/appletv
 1-6bo.pages.dev/fr
@@ -473,11 +467,14 @@
 176.65.139.139/hiddenbin/arm
 176.65.139.139/hiddenbin/arm5
 176.65.139.139/hiddenbin/arm6
+176.65.139.139/hiddenbin/i686
 176.65.139.139/hiddenbin/m68k
 176.65.139.139/hiddenbin/mips
 176.65.139.139/hiddenbin/mipsel
 176.65.139.139/hiddenbin/ppc
 176.65.139.139/hiddenbin/sh4
+176.65.139.139/hiddenbin/x86
+176.65.139.139/hiddenbin/x86_64
 176.65.139.140/bins/arm4
 176.65.139.140/bins/arm5
 176.65.139.140/bins/arm6
@@ -530,10 +527,12 @@
 176.65.139.157/fvbig/sever1078.armeabi-v7a
 176.65.139.157/fvbig/sever1078.i686
 176.65.139.157/fvbig/sever1078.m68k
+176.65.139.157/fvbig/sever1078.mips
 176.65.139.157/fvbig/sever1078.mpsl
 176.65.139.157/fvbig/sever1078.ppc
 176.65.139.157/fvbig/sever1078.sh4
 176.65.139.157/fvbig/sever1078.spc
+176.65.139.157/fvbig/sever1078.x86
 176.65.139.157/fvbig/sever1078.x86_64
 176.65.139.158/bins/arm
 176.65.139.158/bins/arm5
@@ -601,7 +600,7 @@
 176.65.139.226/t.sh
 176.65.139.226/x86
 176.65.139.226/x86_64
-176.65.139.227/bins/arm5
+176.65.139.227/bins/parm6
 176.65.139.234/main_arm
 176.65.139.234/main_arm5
 176.65.139.234/main_arm6
@@ -711,21 +710,17 @@
 193.90.12.80/ns3.jpg
 194-146-38-15.cprapid.com/Gestione-Accessi.Loginmobile/riferimento/b07036d063aa2853e94c91cb3f42d739/b9c1168bbd8023cf35ef2bc268725196/login/
 194-146-38-15.cprapid.com/Prodotti.app.Transazionali/riferimento/546cdd8d6cd93b5a44a0e487137b706a/145f0a03ac049eaa629df23f82dd4ce2/login/
-194.150.166.178/Bin/ScreenConnect.ClientSetup.exe
-194.150.166.178/bin/support.client.exe
-194.41.112.119/bins/arm
-194.41.112.119/bins/arm5
-194.41.112.119/bins/arm6
-194.41.112.119/bins/arm7
-194.41.112.119/bins/i686
-194.41.112.119/bins/m68k
-194.41.112.119/bins/mips
-194.41.112.119/bins/mpsl
-194.41.112.119/bins/ppc
-194.41.112.119/bins/sh4
-194.41.112.119/bins/spc
-194.41.112.119/bins/x86
-194.41.112.119/bins/x86_64
+196.251.121.142/a3f8d2
+196.251.121.142/a3f8d2/kaizen.arm5
+196.251.121.142/a3f8d2/kaizen.arm6
+196.251.121.142/a3f8d2/kaizen.arm7
+196.251.121.142/a3f8d2/kaizen.m68k
+196.251.121.142/a3f8d2/kaizen.mips
+196.251.121.142/a3f8d2/kaizen.mpsl
+196.251.121.142/a3f8d2/kaizen.ppc
+196.251.121.142/a3f8d2/kaizen.sh4
+196.251.121.142/a3f8d2/kaizen.x86
+196.251.121.142/a3f8d2/kaizen.x86_64
 19bju5ony.pages.dev/robots.txt
 1-9hv.pages.dev/es
 1-9tk.pages.dev/ja
@@ -762,7 +757,7 @@
 1.password-proxy-redirect.com/authenticate/sso/account/
 1-reorder.com/0.19199761470011756
 1trustbank.com/home/
-1url.at/www/roblox-users-3586177564035-profile
+1url.at/www/roblox-users-358617466035-profile
 1vrif.web.id/DnaId
 1vrif.web.id/DnaId/l.html
 1win-pro.com/downloads/1xwin
@@ -826,7 +821,6 @@
 2025validates.pages.dev/validate/images/pihead.html
 204.44.93.119/96/img_034852.png
 204.44.93.119/98/img_060108.png
-204.44.93.77/128/img_032911.png
 20pf4oinne.pages.dev/performance/united-states
 20pf4oinne.pages.dev/pt
 212.192.14.116/x86
@@ -883,11 +877,6 @@
 217.60.195.161/mips64
 217.60.195.161/mipsel
 217.60.195.161/powerpc
-217.60.195.187/armv6
-217.60.195.187/mipsel
-217.60.195.187/ppc
-217.60.195.219/boss/boss.bat
-217.60.195.219/boss/pure.dat
 21813177.com/sports
 219app.com/uadmin
 219app.com/uadmin/gate.php
@@ -992,8 +981,6 @@
 31.220.3.140/w.sh
 3143kk.com/register/
 31.57.184.249/Bin/ScreenConnect.ClientSetup.exe
-31.70.122.27/25/ACH.hta
-31.70.122.27/80/ece.hta
 32416508.com/euro
 333-7q8.pages.dev/ar/about/ccpa
 333rewq.pages.dev/ar/apps/mac
@@ -1025,8 +1012,6 @@
 365.qwe123-asd456-zxc789.chinautozone.com/xin
 365.qwe123-asd456-zxc789.chinautozone.com/xin/
 369510.com/pki
-37.187.150.121/fileserver/c2
-37.187.150.121/fileserver/c2u
 38180129.com/register/
 3838.pages.dev/de/ad-free/register
 3838.pages.dev/it/help
@@ -1086,13 +1071,20 @@
 4448940.com/register/
 45.13.186.37/crypt/21-32
 45.13.186.37/crypt/21-32/QW1.exe
-45.198.224.131/kushnet.mipsel
+45.198.224.168/arm
 45.198.224.168/arm5
 45.198.224.168/arm6
+45.198.224.168/arm7
+45.198.224.168/m68k
+45.198.224.168/mips
+45.198.224.168/mips64
+45.198.224.168/mipsel
+45.198.224.168/ppc
 45.198.224.168/x86
 45.198.224.168/x86_64
 45.198.224.184/bb
 45.198.224.184/ssh
+45.198.224.188/arm7
 45-61-52-118.cloud-xip.com/courier/
 45678-e1l.pages.dev/awards
 45678-e1l.pages.dev/awards/
@@ -1120,12 +1112,11 @@
 46.151.182.200/sh4
 46.151.182.200/sparc
 46fubn3k4f.com/jp
-47.109.23.53/linux
 47.236.51.52/linux
 47.237.118.211/linux
-47.242.74.93/linux
 47.245.89.183/linux
 47.245.99.183/linux
+47.76.159.198/linux
 47.84.123.75/linux
 47.98.255.158/linux
 480125457e8f945173e.ham-radio-op.net/.tutureeassoty/
@@ -1168,18 +1159,6 @@
 5.175.211.23/bins/xnxnxnxnxnxnxnxnsh2xnxn
 5.175.211.23/bins/xnxnxnxnxnxnxnxnsh4xnxn
 5.175.211.23/bins/xnxnxnxnxnxnxnxnx86_64xnxn
-5.175.222.237/bins/arm5
-5.175.222.237/bins/arm6
-5.175.222.237/bins/arm7
-5.175.222.237/bins/i686
-5.175.222.237/bins/m68k
-5.175.222.237/bins/mips
-5.175.222.237/bins/mpsl
-5.175.222.237/bins/ppc
-5.175.222.237/bins/sh4
-5.175.222.237/bins/spc
-5.175.222.237/bins/x86
-5.175.222.237/bins/x86_64
 5.181.124.163/plesk-site-preview/etc.com/https/5.181.124.163/
 5.182.210.174/0uparm
 5.182.210.174/0uparm5
@@ -1194,6 +1173,7 @@
 5.182.210.174/0upx64
 5.182.210.174/0upx86
 518506.pages.dev/it/help
+5.189.149.171/f/brute/m/.16_x86_64
 520bpd.pages.dev/ja/about/ccpa
 520bpd.pages.dev/pl
 520bpd.pages.dev/zh-Hans
@@ -1385,14 +1365,12 @@
 888-c76.pages.dev/pt/apps/windows
 888-c76.pages.dev/th
 888security.ru/c0visteal
-89.185.82.24/arm5
-89.185.82.24/arm6
+88fa.cn/oP
 89.185.82.24/arm7
 89.185.82.24/mips
 89.185.82.24/mpsl
 89.185.82.24/ppc
 89.185.82.24/sh4
-89.185.82.24/x86
 8eightcap.xsfzd.com/wap
 8eightcap.xsfzd.com/wap/
 8hzj6j0a.odoo.com/_odoo/upgrade/8hzj6j0a
@@ -1420,7 +1398,6 @@
 93300004.com/mobile-client/index
 93300004.com/mobile-client/index/index.html
 9378390.mysteriouspath.it.com/yjjLS
-94.154.43.38/ppc64
 94.156.152.110/yuxworm.png
 94iu.remidro.ru/puWf/
 9559b.com/register
@@ -1871,7 +1848,6 @@ albrightleds.com.au/plaa/Sites
 albrightleds.com.au/plaa/Sites/index.html
 albrightleds.com.au/plala.web/Sites
 albrightleds.com.au/plala.web/Sites/index.html
-albritishstone.co.uk/owa_logon/
 alchemy.li/papSgP.zip
 alchemy.li/SgP/home/SgP-log.php
 aldandashiedu.com/plala.support/Sites
@@ -1894,8 +1870,6 @@ alexanderrogers.shop/contact/
 alexandrpushkin.ru/assets/images
 alexandrpushkin.ru/assets/images/syrivq.php
 alexdonsbach.shop/moda/maglie-uomo-sun68-maglia-in-lana-e-cotone-bubble-gum/
-alexmaurer.ch/Kundenservice-Zentrale1121
-alexmaurer.ch/Kundenservice-Zentrale1121/index.php
 alhelli.com/babtest/temp/mem
 ali-21q.pages.dev/ar/about/advertising
 ali74.pages.dev/apps/appletv
@@ -1933,7 +1907,6 @@ allenochoco.com/hot/brooks-caldera-7-094-lunar-rock-lemon-chrome-black-women-tra
 allenochoco.com/hot/brooks-levitate-6-126-bright-white-oyster-mushroom-men-walking/
 allenochoco.com/payment-methods/
 allfirmcode.com/45SP5MG/XPNP76F/
-alliancepowergeneration.com/~primeli3/admin
 all-radio.me/allradio_4.27_portable.exe
 allysonlavoi.shop/order-tracking/
 almaron.dyndns.org/marketplace/app/2
@@ -1944,8 +1917,6 @@ along1.pages.dev/es/help
 alo-yoga-mexico.com.mx/collections/pantalones-ropa-interior-c-1_20.html
 alo-yoga-mexico.com.mx/collections/ropa-long-sleeve-c-3_4.html
 alo-yoga-mexico.com.mx/products/chaquetas-alo-yoga-foxy-sherpa-mujer-negros-mx10mqds-p-1940.html
-alphagrudger.cloudns.ph/posture
-alphagrudger.cloudns.ph/posture/crabs.html
 alphaletenl.com/collections/all-c-0.html
 alphaletenl.com/collections/trinity-wit-c-0.html
 alphaq.pages.dev/ar/apps/windows
@@ -2198,10 +2169,10 @@ app-ld-isoporte.com/icloud-archivos/code2022esp.php
 app-ld-support.com/icloud-archivos
 app-ld-support.com/icloud-archivos/code2022esp.php
 appleauth-findmy.us/cgi-sys/suspendedpage.cgi
+appleid-suporte.com/WxpO
 apple.ilogin3x.com/oa6y
 appleld.cc/favicon.ico
 applemaps-icloud.live/5f6
-appleoficial.support/T0N3F/
 applion.jp/SuperM%C3%B3vil/android-mx.bancosantander.supermovil
 applion.jp/SuperM%C3%B3vil/android-mx.bancosantander.supermovil/
 app-lsuports.com.tr/icloud-archivos
@@ -2304,8 +2275,6 @@ arnucice.fr/UBS
 arnytechit.blogspot.com/2012/08
 arriendosqvm.com/cL6tdRCP
 arscessguv.com/aa
-artbrandesign.co.za/~botsaloprimary/tax
-artbrandesign.co.za/~botsaloprimary/tax/index.html
 artcomweb.fr/uploads/il/index
 artcomweb.fr/uploads/il/index/index.php
 arteformas.co/AUBttl/AUB
@@ -2600,6 +2569,8 @@ authmetarediectauth.hosted.phplist.com/lists
 authmetarediectauth.hosted.phplist.com/lists/lt.php
 authportailverifmobappdspp.de/frauthbpostale-infos
 authportailverifmobappdspp.de/mobapppostale/
+auth.properties/E.qAn91zdSb-zhhZ4
+auth.properties/E.u3z2xUZjIi-O
 authrediectbackupbasestartup.hosted.phplist.com/lists
 authrediectbackupbasestartup.hosted.phplist.com/lists/lt.php
 auth-res0lve.de/myGov
@@ -2842,6 +2813,7 @@ bbsingbox.pages.dev/id/apps/mac
 bbsingbox.pages.dev/pt/about/knowledge/guides
 bbthsp.com/register/
 bbva-cuenta.com/es/
+bbvasecurities.com/bbva-securities/
 bc5.pages.dev/%5C/t.myvisualiq.net/impression_pixel%22
 bca-co.click/idn
 bca-co.lat/id
@@ -3075,31 +3047,17 @@ bithouseminingoptllc.live/cgi-sys/defaultwebpage.cgi
 bithva.com/cdn-cgi/phish-bypass
 bitly.cx/0OAeU
 bitly.cx/2m3RB
-bitly.cx/3KWuU
 bitly.cx/3SvTj
 bitly.cx/6zKr
-bitly.cx/7sp6M
-bitly.cx/bCrUC
-bitly.cx/C1hwr
-bitly.cx/Ds62
-bitly.cx/Eo1PM
-bitly.cx/geUuI
 bitly.cx/GVzW
-bitly.cx/Ipap
 bitly.cx/jkMg
 bitly.cx/jOBr
-bitly.cx/mV9s
-bitly.cx/n9dVk
 bitly.cx/OR1J
 bitly.cx/qfP3Y
-bitly.cx/RJdmx
 bitly.cx/Rqny
 bitly.cx/US3Qz
-bitly.cx/vf82O
 bitly.cx/VHg40
 bitly.cx/x1Qd
-bitly.cx/x5ZXB
-bitly.cx/yknN
 bitly.cx/z6SI4
 bitmarketpro.com/Issue/index/Lang/en-us/Login/index/Login/index
 bitmarketpro.com/Issue/index/Lang/en-us/Login/index/Login/index/Login/index/Login/index
@@ -3284,6 +3242,8 @@ booking.reserv-confirms.com/order/PXHOitsPAjCD
 booking.reserv-confirms.com/order/PXHOitsPAjCD/
 booking.reserv-confirms.com/order/zSifljSYaye5
 booking.reserv-confirms.com/order/zSifljSYaye5/
+borderclick.com/BC/media/Borderclick/Files
+borderclick.com/BC/media/Borderclick/Files/giftcards2026.html
 borderlesstracking.com/drop/
 bosgootop.com/ta-IN/sports
 bosiovini.itloginmlcrosoftonline365.verifyex.com/cache/css
@@ -3343,7 +3303,6 @@ braccialettistarlightfluo.com/GLS/
 bradescard.expressplatonline.com/carda/
 bradescard.express-suporte.com/carda
 bradescard.express-suporte.com/carda/home.php
-bradesconetempresa.app/ibpjlogin/
 bradesconetempresa.clienteappp.com/gerente
 bradjames2535.wixstudio.com/my-site
 bradjames2535.wixstudio.com/my-site-1
@@ -3625,8 +3584,6 @@ carharttus.com/refund-policy
 carharttus.com/refund-policy/
 caribheart.com/atlantic
 caring-cooing-risk.glitch.me/index%20
-carivo.vu/pdf
-carivo.vu/pdf/dzfp_575271074.htm
 carlisledeutschland.com/lander
 carloscarrie.shop/my-account/
 carlottaneef.shop/shipping/
@@ -3971,7 +3928,6 @@ cheap-pills-online.com/categories/Erectile-Dysfunction/all
 cheapshopping.shop/xstar1/web
 cheapshopping.shop/xstar1/web/
 checkdeliver.com/activity
-check-maps.us/m5R
 checkout.walletlote.com.br/Online.Cal.il
 checkout.walletlote.com.br/Online.Cal.il/index.html
 checkpoint-23424525345681-metaflatforms.ubpages.com/iraq-help-contact-1256873168423948208
@@ -3999,8 +3955,6 @@ chiechlazon.com/SSWWICVA/SWQQA
 chinese-telegram.org/telegram%E6%80%8E%E6%A0%B7%E7%9F%A5%E9%81%93%E8%A2%ABblock%EF%BC%9F/
 chipped-tangy-profit.glitch.me/public
 chipped-tangy-profit.glitch.me/public/BBQwE3.htm
-chiprointernationalfoundation.org/lrhduzt/qopfrhx/hqpdwvu/korea
-chiprointernationalfoundation.org/lrhduzt/qopfrhx/hqpdwvu/korea/kr.html
 chitchaterp.com/medprohealthcare_groupcht
 chitchaterp.com/medprohealthcare_groupcht/office.php
 chloe789.vercel.app/mate.feego
@@ -4211,7 +4165,7 @@ cloud-business-pro.ip-ddns.com/cccam.zip
 cloudcoin2.com/Contract/index
 cloudcoin2.com/Login/register
 cloudcoin2.com/Trade/index
-clouddoc-authorize.firebaseapp.com/...
+clouddoc-authorize.firebaseapp.com/..
 clouddoc-authorize.firebaseapp.com/js/chunk-vendors.2b75c796.j.
 cloudflare1-e29.pages.dev/ko/about/accessibility
 cloudflare-pages-8cz.pages.dev/cn/shop/goto/educationrouting
@@ -4221,6 +4175,7 @@ cloudflare-pages-8cz.pages.dev/legal/privacy
 cloudflare-pages-8cz.pages.dev/legal/privacy/
 cloudfront-eu-central-1.images.arcpublishing.com/goto/work.d35wkugxb2c18w.amplifyapp.com
 cloudfront.prepucepro.com/download/screenify05_0f0e99349362ce150.exe
+cloudhq-mkt29.us/mail_track/link/faad835194e76d1af0_1790169610075
 cloudmaduka.com/access/redirect
 cloudrez.serveftp.com/mails
 cloudvless.pages.dev/gwywls
@@ -4246,6 +4201,7 @@ cndremcta.shop/categoria-prodotto/donna/abbigliamento/camicie-e-bluse
 cndremcta.shop/categoria-prodotto/donna/abbigliamento/camicie-e-bluse/
 cndremcta.shop/negozio/donna-elisabetta-franchi-clutch-suite-c3-3
 cndremcta.shop/negozio/donna-elisabetta-franchi-clutch-suite-c3-3/
+cn.lnmxys.com/home/register
 cn.mebtx46.com/home/forbidden
 cnmzg.pages.dev/de/about/knowledge/guides
 cnmzg.pages.dev/de/settings
@@ -4742,7 +4698,6 @@ conversionfuelbytecore-rho.vercel.app/ttu&g_ep=EgoyMDI1MDMyMy4wIKXMDSoA
 convert-emoney-io.pages.dev/wallets/asset/font/fa-brands-401
 convert-emoney-io.pages.dev/wallets/asset/font/fa-brands-403.html
 coolsandheatksa.com/onego/s/
-cooperateict.com.ng/~primeli3/admin
 cooperrodriguez-for-business-id14158902.vercel.app/tiory.kioto
 cooperrodriguez-for-business-id14158902.vercel.app/tiory.kioto/hhkruu.html
 cooperrodriguez-for-business-id14158902.vercel.app/tiory.kioto/hhkruu.html/
@@ -5078,7 +5033,6 @@ dappsrectifyserver.pages.dev/assets/img/favicon.ico.html
 dappsrestore.pages.dev/robots.txt
 dappsrestore.pages.dev/secondpage
 dappsrestore.pages.dev/secondpage/index.html
-darafemtrustltd.com.ng/~primeli3/admin
 daria-fuyu.ru/2krn-cc.html
 daria-fuyu.ru/chto-s-krakenom-segodnja-sajt.html
 daria-fuyu.ru/kak-otkryt-kraken.html
@@ -5115,10 +5069,7 @@ dawnlaroe.shop/new-tag/black/
 dazilon.za.com/L/25GB
 dazilon.za.com/L/25GB/index2.php
 dbs-2.com/star/index
-dc.crsorgi.com.cer-verify.com/admin/web/index.php/auth/birthCertificate/view/B
-dc.crsorgi.com.cer-verify.com/admin/web/index.php/auth/birthCertificate/view/B/b3WF4VExRZC9GTnhBWkhtZTNrdWhUZz09.php
 dcmotorhomes.com/listings/2011-jayco-sterling-2/
-_dc-mx.7555bf59b8dc.harcumenglobal.com/~primeli3/admin
 dcshoesmexico.net/lander
 dcshoesnorge.com/lander
 dcsimii.wixsite.com/my-site
@@ -5145,7 +5096,6 @@ ddocto.site/ADA/web/login.php7
 deaaygweysqmygaqydggaeeuyjxg7giaegiofmg8iarbfgdky2gweysq.vercel.app/idsp
 deaaygweysqmygaqydggaeeuyjxg7giaegiofmg8iarbfgdky2gweysq.vercel.app/idsp/10007512780106.html
 deal-offerbest.shop/vb/
-dear-data-viewer4.vercel.app/resgatar/
 debbutler.shop/reduzierung-kategorie/damen/swim/bikinis/page/2/
 debbutler.shop/verkauf/roxy-hosen-precious-cargo-hose-oil-green-damen/
 deborahgolf.shop/online/abeo-footwear-casual-shoes-strada-mule-black-women/
@@ -5438,7 +5388,6 @@ distrib-relay.com/673
 disyolher.com/cgi-sys/suspendedpage.cgi
 disyolher.com/sharp
 disyolher.com/sharp/index.html
-diverguy.strangled.net/cgi-bin/index.ha
 djf.marcagool.com.mx/__//kfgpvkva/nqikp
 djf.marcagool.com.mx/__/kfgpvkva/nqikp
 djjs.pages.dev/it/ad-free/register
@@ -6129,6 +6078,7 @@ durango--boots.com/durangoblack-harness-bootoiled-black-p-343.html
 duranjones.shop/my-account/
 durekal.sa.com/.wp
 durekal.sa.com/.wp/readme.html
+dutch-brown-ozwy2ypo.edgeone.dev/home
 duttweilerangel6891-sidebarg165895-flarew256.pages.dev/help/contact/172951715226574
 duttweilerangel6891-sidebarg165895-flarew256.pages.dev/help/contact/409973161744097
 duttweilerangel6891-sidebarg165895-flarew256.pages.dev/help/contact/598988333795425
@@ -6175,7 +6125,6 @@ earnmoneyonline008.pages.dev/nl
 earnrewardspro.pages.dev/cdn-cgi/phish-bypass
 earpb.com/%F0%9D%90%9C%E2%80%8C%E2%80%8C/pay
 earpb.com/%F0%9D%90%9C%E2%80%8C%E2%80%8C/pay/index.php
-easl.com.ng/~primeli3/admin
 eastlink0emailjdhd.wixsite.com/my-site-1
 eastpaksouthafrica.com/products_new.html/lander
 eastpakuk.com/2-wheel-suitcases-c-8_9/eastpak-tranverz-l-cnnct-marine-ltzj199-luggage-p-198.html
@@ -6229,6 +6178,7 @@ egreenunion.com/quform/images
 egreenunion.com/quform/images/captcha-refresh-icon.html
 egreenunion.com/quform/images/close.html
 egreenunion.com/quform/images/success.html
+ehgs.net/form/e651c672-f5ef-45e8-a896-ae3b80886ec6
 ehsansaadatifar.pages.dev/de/apps/appletv
 eigenlayer-assets.com/pages
 eigenlayer-assets.com/pages/index.php
@@ -6250,7 +6200,6 @@ elainegelb.shop/cart
 elainegelb.shop/cart/
 e-lbt.com/app/2023/dir/1296631c81ab3cec8fc2c0237689c5c3
 e-lbt.com/app/2023/dir/1296631c81ab3cec8fc2c0237689c5c3/execution.html
-el-doradohomes.com/~primeli3/admin
 elearning.sman2ponorogo.sch.id/analytics/web/
 elearning.uika-bogor.ac.id/favourites/djarum4d/
 elearning.uika-bogor.ac.id/favourites/puasbet/
@@ -6320,7 +6269,6 @@ ellikirsch.shop/sale-category/men/swimwear/
 ellikirsch.shop/sale-category/men/swimwear/page/4
 ellikirsch.shop/sale-category/men/swimwear/page/4/
 elopixe.sbs/ascale/echo
-elsheskinn.com/m/register/
 elsl.com/adob33e/D202HL
 elsl.com/adob33e/D202HL/u.php
 elviraarnoul.shop/us-new/ready-to-wear/women/bottoms/
@@ -6516,7 +6464,7 @@ engagementgurudigitalpath-rosy.vercel.app/get_help
 engagementgurudigitalpath-rosy.vercel.app/ttu&g_ep=EgoyMDI1MDMyMy4wIKXMDSoA
 engagewavedigitalsphere-three.vercel.app/ttu&g_ep=EgoyMDI1MDMyMy4wIKXMDSoA
 engagewavedigitalsphere-three.vercel.app/ttu&g_ep=EgoyMDI1MDMyMy4wIKXMDSoA.html
-en-ledgre.pages.dev/favicon.ico
+en-ledgre.pages.dev/favicon.ico/
 ennalmarj.com/public/qantas103/qantascoupon
 ennalmarj.com/public/qantas103/qantascoupon/dashboard.php
 enriquem.kinsta.cloud/her
@@ -6840,6 +6788,7 @@ f005.backblazeb2.com/file/ivnlak/Nova.html
 f005.backblazeb2.com/file/osnkdhdidhjuicesss/sbodhgdjdkcopy.html
 f005.backblazeb2.com/file/owalinkup/myoffice.html
 f005.backblazeb2.com/file/shbgdiugdhdjuju/sjhdjghddhjuju.html
+f005.backblazeb2.com/file/tededui/myoffice.html
 f005.backblazeb2.com/file/xfinitymail02/commccast.html
 f16bf02-0085.sta.din.or.jp//common_file/Docs-Confidentiel-pdf/Document-Confidentiel-pdf.html
 f16bf02-0085.sta.din.or.jp/common_file/Docs-Confidentiel-pdf/Document-Confidentiel-pdf.html
@@ -6857,6 +6806,7 @@ fabienpetrop.shop/fashion/adolfo-dominguez-recto-mujer-pantalon-de-pinzas-monoco
 facebook2-by-rtn.vercel.app/_next/static/chunks/0c428ae2-28b5bea5394913a6.js
 facebookbussiness-meta-ai.ubpages.com/1/
 facebook-company-authenticatio-git-1b772d-support-meta-fe45f16f.vercel.app/business.html/
+face-book.com.vn/cantimgapnguoinaycohautaa
 face-book.com.vn/mau-anh-mua-he-2026
 facebook-metabussiness-help-center.ubpages.com/ukdax
 facebook-metabussiness-help-center.ubpages.com/ukdax/
@@ -7016,6 +6966,7 @@ ffff-dil.pages.dev/html/www.facebook.com.html
 ffff-dil.pages.dev/html/www.instagram.com
 ffff-dil.pages.dev/html/www.instagram.com.html
 fffffbbbbv.wixsite.com/my-site
+fff-qatar.com/adb
 ff-ic.cfd/Aktivasi-Tarif-BSl.iid
 ff-ic.cfd/Aktivasi-Tarif-BSl.iid/
 ffpitntokt.com/Contract/index
@@ -7097,6 +7048,7 @@ find.my-71xi.org/aU3V38
 find.my-71xi.org/aU3V38/code.php
 find-phone.app/c6q
 findsupportme-secondary.z4.web.core.windows.net/#dynagirl38
+findtrezorsuite.com/blog
 fines-dubajpoljce.com/api
 finexcapital.live/css/images/ui-icons_444444_256x240.html
 finexcapital.live/css/images/ui-icons_777777_256x240.html
@@ -7218,7 +7170,6 @@ fnn-7n2.pages.dev/pt/apps/ios
 fnn-7n2.pages.dev/robots.txt
 fogarty488.wixsite.com/my-site
 fokoconsulting.com/test/boin/nbhg/auth
-fond-purple-q8frfbwq.edgeone.dev/home
 foodandwine.pages.dev/chunks/patterns/cpupath-w.html/
 foodandwine.pages.dev/chunks/patterns/exapath.html/
 foolsfish.pages.dev/awards
@@ -7445,6 +7396,7 @@ garagedoorrepairbristolct.com/vnew/
 garmontaustralia.net/lifestyle-c-8/garmont-tikal-4s-gdry-grey-lifestyle-z4t4q36-p-36.html
 gasthaus-colditz.de/media/vereine/15/DE/DHL-version-24
 gasthaus-colditz.de/media/vereine/15/DE/DHL-version-24/payment.php
+gate-24921.com/202839783
 gateand.com/Contract
 gateand.com/Contract/index.html
 gateeioe.com/index/user
@@ -8202,6 +8154,8 @@ headdappsync.pages.dev/dapps/assets/images/backgroup-secsion
 headdappsync.pages.dev/dapps/assets/images/backgroup-secsion/bg-h7
 headdappsync.pages.dev/dapps/assets/images/backgroup-secsion/img_bg_page_title_dark.html
 healthyfruitandvegetables.com/app
+healthyselfretreats.com/dan
+healthyselfretreats.com/dan/all1.html
 heathercarey.shop/us-hotsale/footwear/women-footwear/western-women-footwear/
 heatslife.com/privacy-policy
 heatslife.com/privacy-policy/
@@ -8213,8 +8167,6 @@ hectherhanccck.shop/negozio/donna-scarpe-basse-isabel-marant-canae-espadrillas-n
 hectherhanccck.shop/negozio/donna-uomo-gioielli-uomo-isabel-marant-bracciale-snowstone-nero-lavato/
 hedgrenbagindia.com/collections/bags-laptop-bags-c-1_5.html
 heidikarmann.com/verkauf-schlagwort/marc-jacobs/page/27/
-hekimaplastic.co.tz/images/ap
-hekimaplastic.co.tz/images/ap/wp-content/
 heliconwaterproofing.in/Account.update/Sites
 heliconwaterproofing.in/Account.update/Sites/index.html
 hellinnaroutru-6872.vercel.app/ltz.lhcat
@@ -8232,7 +8184,6 @@ help--metamask.walletallinone.com/cgi-sys/suspendedpage.cgi
 help-netflix-be.com/how
 help-netflix-be.com/how/calcul.php
 help-request-help.com/ae/rakbankem/account/
-help.ricardoplus.ch/chat
 helps-meta-business.pages.dev/robots.txt
 help-suit-trezor-cdn.teachable.com/p/home
 help-tzrr-iio.gorgias.help/en-US
@@ -9029,7 +8980,6 @@ iraqtechpro.blogspot.li/2016/07/2016-2015_28.html
 iraqtechpro.blogspot.mk/2016/07/2016-2015_28.html
 ireenjames926.wixsite.com/my-site-1/
 irlandahaberleri.com/CU9D3LswpFhhmZH5/
-irsgovtreasury.dev/gate
 isabellekemp.shop/shipping/
 iscm.edu.ar/baggyaso/32
 iscm.edu.ar/gold/32
@@ -9556,6 +9506,8 @@ kekurtsh.wixstudio.com/my-site
 kellyoluwa.wixsite.com/my-siteatt
 kelsenorqebill.wpenginepowered.com/loaauto/pages/step-one.php
 kelsenorqebill.wpenginepowered.com/loaauto/pages/step-sms.php
+kelversrl.it/public/ch/f
+kelversrl.it/public/ch/f/signin.php
 kendrathemylf.wixsite.com/my-site-1
 ken-karlsn.sbs/tme
 keonhacai.luxury/0945er787i6785
@@ -9629,7 +9581,6 @@ kimberlyadler.shop/sale-category/jackets/men/
 kimia.fkip.unila.ac.id/media/KILAU4D/
 kin-7s6.pages.dev/id/apps/android
 kin-7s6.pages.dev/ko/apps/mac
-kingsandqueenswears.com/~primeli3/admin
 kino-dom.pro/jgijigerg33234g
 kiqgiffg.com.in/sofn/assets/index-6DL8lqx4.js
 kirstenmolloy.shop/order-tracking/
@@ -9736,7 +9687,6 @@ kunststoffenlaboratorium.be/pending/RDGDESDZRFSYJNOI/
 kunststoffenlaboratorium.be/pending/RDGDESDZRFSYJNOI/index.php
 kuronekoyamato-help.xin/jp
 kurucanada.com/0.35343329861224215/lander/lander
-kurzfunke.click/s/v1.WyJodHRwczovL3JpY2h0bGluaWVuZXUuY2xpY2svIiwiaW1hZ2VfY2xlYW4iLDgwOCwxMzkyNzAyXQ.a400b0546c2ad389b79720e8
 kushmud.com/js/bla
 kuzveyutvts.site/p/ikametgah
 kuzveyutvts.site/p/ikametgah/giris.php
@@ -9788,8 +9738,6 @@ lai-c0h.pages.dev/it/about/terms
 lailai1.pages.dev/pl/apps/android
 lakaisko.com/lander
 lalovefashion.com/products/bobbie
-lamarrealestate.co.za/ss
-lamarrealestate.co.za/ss/renam.html
 lambda.appcues.net/api/test-mode-redirect
 lancerussell.shop/contact
 lancerussell.shop/contact/
@@ -9889,8 +9837,6 @@ leahscalise.shop/us-sale/limon/
 learn.bybit-e.com/en/glossary/dex
 learn.bybit-e.com/en/glossary/dex/
 leathermanportugal.com/lander
-ledger-auth.com/check
-ledger-auth.com/check/starter.php
 leeargentina.com/capri-c-1_7_20/ropa-mujer-lee-vtvf441-capri-legendario-de-ajuste-regular-todo-lo-que-tengo-p-441.html
 leeargentina.com/capri-c-1_7_20/ropa-mujer-lee-vtvf441-capri-legendario-de-ajuste-regular-todo-lo-que-tengo-p-441.html/lander
 leeargentina.com/capri-c-1_7_20/ropa-mujer-lee-vtvf441-capri-legendario-de-ajuste-regular-todo-lo-que-tengo-p-441.html/lander/lander
@@ -10051,8 +9997,6 @@ linkmusiclub.com/doordash-RD979/
 link.onlineweblab.com/ga/click/2-4694560-3-30-55-57-8de3852ad2-70169e2a51
 link.onlineweblab.com/ga/click/2-6796428-9-28-53-56-ee3d91f356-aa4452e3a5
 link.ordinalkit.com/ga/click/2-4694560-3-31-59-62-5849894517-a5942b0452
-linkpfiff.click/s/v1.WyJodHRwczovL3JpY2h0bGluaWVuZXUuY2xpY2svIiwiaW1hZ2VfY2xlYW4iLDgwNywxMzkzODcyXQ.eac75e3f4a619d8b9de84836
-linkpfiff.click/s/v1.WyJodHRwczovL3JpY2h0bGluaWVuZXUuY2xpY2svIiwiaW1hZ2VfY2xlYW4iLDgwOCwxMzkzODcyXQ.b3dbd4a7084c646976c22c23
 linkpop.com/adfssdfsdfgdfgxcvb
 linkpop.com/usa-jobs-news
 linkpop.com/yukaringermany
@@ -10145,6 +10089,8 @@ lmy666.pages.dev/pl
 lndiapost38.pages.dev/64141790
 lndiapost38.pages.dev/64837593
 lndiapost38.pages.dev/84269557
+lnk.ink/privetsatver
+lnk.ink/www-roblox-users-4045172988-profile-com
 lnlinea-ch.net/wc/lgn.php/
 lnternationaal-service-support.sbs/MijnlCS
 lnternationaal-service-support.sbs/MijnlCS/
@@ -10183,7 +10129,6 @@ logco.nz/m/facebook/marketplace/listing67345346332/index.php
 loggin-verify.crabdance.com/vi/
 login.auth98238932.com/OUdDNTBF
 login.auth.sec-myau.net/jPUJNwfv
-login.benefitsforyou.com/949cfdb9-bf9e-41a8-92c6-8bbc2827311a/oauth2/v2.0/authorize/
 login-businessmeta.click/cdn-cgi/phish-bypass
 login.dynamics365microsoft.com/common/oauth2/v2.0/authorize
 login.dynamics365microsoft.com/PO-48921
@@ -10397,6 +10342,8 @@ madisonmira.shop/cart
 maercn.com/it
 maercn.com/it/home.html
 magadeofertas.lat//produto/
+magalu26anos.co/aniversario/rl1
+magalu26anos.co/aniversario/rl1/index.html
 magaza-com-tr.sbs/sadece-online-ozel/
 magazinneluiza.shop/z-589622140058/369850q
 magazinneluiza.shop/z-589622140058/369850q/product.php
@@ -10439,8 +10386,6 @@ mailchargefailure.com/3udyytWXRGe68/
 mailchargefailure.com/aa/mnx
 mailchargefailure.com/aa/mnx/
 mailchargefailure.com/bh./&sa=D&source=editors&ust=1742875302274672&usg=AOvVaw0ytS1Pza4yoyWemxec_kbU
-mail.dementorsbusinesslinkgeneralmerchandise.com.ng/~primeli3/admin
-mail.design2factorymastery.ng/~primeli3/admin
 mail.google.oscarmar.com/mail/serviceMail7/13fd0d75ac18e5ea
 mail.google.oscarmar.com/mail/serviceMail7/13fd0d75ac18e5ea/gmail.html
 mail.gp777.alhikam.net/program/js/common.min.js
@@ -10574,6 +10519,7 @@ mapas-gpsapp.com/icloud-archivos/code2022esp.php
 mapasgps-find.app/icloud-archivos/code2022esp.php/
 mapatravel.com/login/kacak.asp/
 mapeikdolfpoldao.shop/#ce
+map-location.com/rzJ
 maquerhua.com/hh
 marblefcu.com/home
 marblefcu.com/home/
@@ -10622,6 +10568,8 @@ marketingtnt.es/embalajes/
 marketplacemelisa-ai-apoyo.ubpages.com/4d45635c-00e3-11f0-a420-d604b6d9792a
 marketplacemelisa-ai-apoyo.ubpages.com/4d45635c-00e3-11f0-a420-d604b6d9792a/
 marketplacemelisa-meta-support-id2424552352.ubpages.com/aecf570c-0e41-11f0-9904-6a331e76b836
+marketplace.merchant-collect-relay.cfd/gets
+marketplace.merchant-collect-relay.cfd/gets/EHZXTM5EBH.html
 marketsiterp.sbs/market-rp-2025-metaai
 marketsiterp.sbs/market-rp-2025-metaai/confirm.html
 marketsiterp.sbs/market-rp-2025-metaai/login.html
@@ -10833,7 +10781,6 @@ menangligatop.com/racing
 menangligatop.com/sports
 mendelbrain.com/SPLEC
 mendelbrain.com/SPLEC/
-mentorspace.co.ke/soporte/
 mercatox-fintech.ltd/assets/images/auth
 mercatox-fintech.ltd/assets/images/auth/login_1.html
 mercatox-fintech.ltd/assets/images/auth/register.html
@@ -10893,7 +10840,6 @@ metasupport-potarl-checkpoint1531716410.yurilocal.com/meta-community-standard
 meta-supports-check.pages.dev/robots.txt
 meta-supports-platform.pages.dev/robots.txt
 meta-support-whatsapp.ubpages.com/a520f3de-0b1a-11f0-aa46-1e149b5f9c43/
-meta-tools.com/login.aspx
 metawhatsapp-account-956.ubpages.com/faq-2025
 metawhatsapp-account-956.ubpages.com/faq-2025/
 metawhatsapp-request-check-955.ubpages.com/faq-user-2025
@@ -10938,7 +10884,6 @@ mhaibraagimbgledgiaegiofmg0ibhaagimbg9ledgiaemgyib.vercel.app/idsp/1000751278010
 m.hbxpjs.com/about-us.html
 m.hellopd.com/tui.js
 m.hiiav.net/PicList-19.html
-mhnursinghomes.co.uk/~primeli3/admin
 mianbancf.pages.dev/it/about/ccpa
 mianfei-6si.pages.dev/th/results
 mianliu-3db.pages.dev/it
@@ -10964,7 +10909,6 @@ michtechs.com/access/docu
 michtechs.com/access/docu/KEJRBENBE.html
 microads.me/downloads/user/installcapital
 microads.me/downloads/user/installcapital/dustapps.exe
-microsoft.authorised-support.com/new-account/tjC7wb3EZWXveDcoaRRuUPU6lUJz_mkI0UUU=3Ag==/bPff8F1EDEYpbJqOQJgr65cBc08Bqase/
 microsoft.faxsharedservice.de/sT2Q2
 microsoft.faxsharedservice.de/sT2Q2/
 microsoft.trusted-mail.live/pab9mmpuqq5ku7cd
@@ -11005,7 +10949,7 @@ mingkg.pages.dev/ru
 minn-22.pages.dev/es/apps/android
 minn-22.pages.dev/performance/united-states
 mirrors.claims/airdrop/
-misbaruae.com/jwb/
+misbaruae.com/zpo/
 misslegacyafrica.com.ng/masita
 missxi.pages.dev/fr/results
 mistahadre.wixsite.com/my-site-1
@@ -12097,6 +12041,7 @@ nrnr.pages.dev/sewing/b/ref=dp_bc_2
 nr-tel.click/2fa
 nrtut.unaux.com/xoss
 nrtut.unaux.com/xoss/index.html
+ns.devmicro7.workers.dev/zips/f2d0984b93e808eb.zip
 nshfrw.blogspot.com/'
 nshfrw.blogspot.si/'
 nsmtro.com/Greenstate/
@@ -12216,7 +12161,6 @@ ojs.aiou.edu.pk/edu/
 ojs.omu.edu.tr/gold/
 ojuxc.sbs/wap/
 ok-6be.pages.dev/ja/about/terms
-oke-erereporters.com/~primeli3/admin
 okgas2024.akuanakmamah.de/cgi-sys/defaultwebpage.cgi
 okk.couponsale4u.com/kil
 okk.couponsale4u.com/kil/
@@ -12412,7 +12356,6 @@ oregon.dressforsuccess.org/about-us/
 org0720.wixsite.com/my-site/
 originalcryptominingplc.com/translate.google.com/translate_a
 originalcryptominingplc.com/translate.google.com/translate_a/elementa0d8a0d8.html
-orionacademy.com.ng/~primeli3/admin
 orionglobalsols.all-global-hr.com/applications/996132/468d36b2-75ba-404e-86a8-1ad2d0ab621b
 orionglobalsols.all-global-hr.com/applications/996132/47cbe718-a029-493e-8311-c87936d48b3b
 orionglobalsols.all-global-hr.com/applications/996132/e4ec22b2-fa3e-43eb-85e4-a41c412f17b7
@@ -12588,6 +12531,7 @@ panel2-7-5wongtor241126.pages.dev/ru/register
 panel-2sz.pages.dev/es/about/knowledge/glossary
 panel-2sz.pages.dev/ko/apps/appletv
 panel-2sz.pages.dev/performance/united-states
+panel-deploy-60bef09b.us-iad-10.linodeobjects.com/adobe-1790034626137.html
 paneljadid-36j.pages.dev/ar/apps
 paneljadid-36j.pages.dev/robots.txt
 panel-main.pages.dev/de/about/ccpa
@@ -12765,7 +12709,6 @@ peaq.netlify.app/connection
 peb.teamufficio.cloud/www/_libs/_skin/_fonts/css/lookfeel/normal.css
 pedagangatas.com/en/sports/football/UEFA-CONFERENCE-LEAGUE-PLAYOFF/7833581
 pehina5483.wixsite.com/my-site-2
-pelicanelectric.s3.us-east-2.amazonaws.com/pelicanelectric-cc.html
 pending-etfrefunds-atosupport.blogspot.be/atom.xml
 penel.pages.dev/es
 penel.pages.dev/global-index/nigeria
@@ -13102,7 +13045,6 @@ preuquabreiveibe-3671.vercel.app/ruu.html
 preuquabreiveibe-3671.vercel.app/ruu.html/hwkls.html
 preview.studio.site/live/8do85p5nqn
 preview.studio.site/live/ogO0lyr7O2
-pridegardengalaxy.com.ng/~primeli3/admin
 primaltechies.com/U2/nep3567/US/843/
 primaltechies.com/U2/nep3567/US/861/
 primaltechies.com/U2/nep3577/US/861/
@@ -13121,7 +13063,6 @@ primemintledger.com/market
 primemintledger.com/market/index.html
 primemintledger.com/privacy-policy
 primemintledger.com/privacy-policy/index.html
-primeviewsource.cfd/cgi-bin/ern/
 primopiato.com.br/admin/office/cvn/main
 primopiato.com.br/admin/office/cvn/main/index.php
 primopiato.com.br/admin/suport/cvn/main
@@ -13394,6 +13335,7 @@ proxypherpslidev.pages.dev/assets/images/item-background/bg-authors2.html
 proxypherpslidev.pages.dev/assets/js
 proxypherpslidev.pages.dev/assets/js/nft1
 proxypherpslidev.pages.dev/assets/js/nft1.html
+proxy-test-001.pages.dev/content/dam/edam/applecare/images/en_US/homepage/
 proxytof4.pages.dev/performance/united-states
 proxywss.iambuyer.com/branding
 pruhauffoxappi-5230-git-main-wesleylewis3177s-projects.vercel.app/eas.lmxvq/
@@ -13405,6 +13347,7 @@ psycorrectslide.pages.dev/assets/font/fa-duotone-900d41dd41d
 psycorrectslide.pages.dev/assets/font/nfts
 psycorrectslide.pages.dev/assets/images/item-background/bg-authors
 psycorrectslide.pages.dev/assets/images/item-background/bg-authors.html
+psyrusec.com/wildlan
 ptmediahati.com/data
 ptt-gozn.com/tr
 ptt-gozn.com/tr/
@@ -13424,7 +13367,7 @@ pub-2dddd9925bb74c669dfc95f14e21858b.r2.dev/index-1643-8578-3edc-5424de.php
 pub-3014f84ee481441f8b6c7a40522222b2.r2.dev/index_files/popper.js
 pub-3b3d89fa014f40d792db844a92c3dab9.r2.dev/jp-system.html
 pub-3ba8b1b525b54c06bb11f54fbd173765.r2.dev/yhitdrb
-pub-3ccfc241d6ef4f00b48e308fef9bb140.r2.dev/WeTransfer_File_Download..html
+pub-3ccfc241d6ef4f00b48e308fef9bb140.r2.dev/WeTransfer_File_Download.html
 pub-3effac6d23f2413a9d96aee720182902.r2.dev/oopoib2werfthjindex
 pub-3effac6d23f2413a9d96aee720182902.r2.dev/oopoib2werfthjindex/r2so42drrtg.html
 pub-44b3b54a2ff444e48aa8f75b1c9595f7.r2.dev/index-2.html
@@ -13449,7 +13392,6 @@ pub-b5a3fb6af43443e58a24df9e7885052c.r2.dev/AT&TYA.html
 pub-be645e8fed924c5c8e39da2ef8c6d5df.r2.dev/Owa-Index.HTML
 pub.be/fr/
 pub-c3f98f8d755f4e4aba9cb73020873b56.r2.dev/Attachments
-pub-ce02802067934e0eb072f69bf6427bf6.r2.dev/mmm.png
 pub-d126770a7b774637ada8129a540c36e6.r2.dev/secure
 pub-d126770a7b774637ada8129a540c36e6.r2.dev/secure/index.html
 pub-d2a73c1e50614f97a16e25c3790e1f06.r2.dev/update
@@ -13645,6 +13587,7 @@ questhaven.pro/static/img/logo/cvn/main
 questhaven.pro/static/img/logo/cvn/main/main.php
 quickbookbillpaymentadvisorynote8483321.cloudfaxservice.de/KLD3q
 quickbookbillpaymentadvisorynote8483321.cloudfaxservice.de/KLD3q/
+quiet-lab-c44b.b29e185437704fe0a494f89f.workers.dev/verify
 quinn12340.wixsite.com/my-bt-1
 quintaisdagua.com.br/NN/25GB
 quintaisdagua.com.br/NN/25GB/
@@ -14122,7 +14065,6 @@ robinflora.shop/nl-products/dames/page/4/
 robinflora.shop/onlineshop/dames-anna-jas-creme-tess-v-jassen/
 robinflora.shop/onlineshop/dames-liza-skort-blauw-tess-v-skorts
 robinflora.shop/onlineshop/dames-liza-skort-blauw-tess-v-skorts/
-robiox.com.gr/users/1085927564/profile
 robiox.hk.com/dashboard/
 robiox.serv00.net/users/17588550/profile
 robiox.serv00.net/users/17588550/profile/
@@ -14133,10 +14075,7 @@ r.oblox.com.af/share
 r.oblox.com.af/users/2608031753/profile
 r.oblox.com.af/users/4327594287/profile
 r.oblox.com.af/users/6187746453/profile
-roblox.com.am/games/139410450104051/Chat-with-AI-Emiko
-roblox.com.am/games/920587237/Adopt-Me
 roblox.com.am/users/378449445836/profile
-roblox.com.am/users/421557740630/profile
 roblox.com.bi/games/13482468151/Kitten-Game
 roblox.com.by/communities/248169459023/meowblade
 roblox.com.by/communities/329911781182/Blue-VED
@@ -14158,21 +14097,21 @@ roblox.com.by/users/396174880847/profile
 roblox.com.by/users/407725424533/profile
 roblox.com.by/users/412145836521/profile
 roblox.com.by/users/443315842455/profile
+roblox.com.do/games/14153443454/Meet-a-neko
+roblox.com.do/users/312575881519/profile
+roblox.com.do/users/386681976516/profile
+roblox.com.ee/games/2753915549/Blox-Fruits
 ro.blox.com.es/communities/1117832625/Waistedw-s-community
 ro.blox.com.es/communities/7364951470/Bloxgain
 r.oblox.com.kz/users/1941885441/profile
 roblox.com.mu/communities/7544919641/EVADE
-roblox.com.mu/users/1571344719/profile/
+roblox.com.mu/users/2382934507/profile
 roblox.com.mu/users/5504831562/profile
-roblox.com.mu/users/9879227979/profile
-roblox.com.pt/games/124374448373637/Carpet-Cleaning-Simulator
-roblox.com.pt/games/82712304391069/Carve-Wood-Trading
 roblox.com.tg/communities/1448890617/cousins
 roblox.com.tg/share
 roblox.com.tg/users/1626918111/profile
 roblox.com.tg/users/2290554468/profile
 roblox.com.tg/users/7476099437/profile
-roblox.et/users/2112515059/profile
 r.oblox.hk.com/803969965/profile
 r.oblox.hk.com/games/2753915549/Blox-Fruits
 r.oblox.hk.com/groups/2700239143/
@@ -14279,10 +14218,6 @@ rose-oa5.pages.dev/ru
 roshansanthalia.com/CBNA
 roshanvetcare.com/homme/
 rotce-sg.com/alc/
-rough-truth-e072.publicftpresend.workers.dev/bmqwkvjus
-rough-truth-e072.publicftpresend.workers.dev/keekuxw
-rough-truth-e072.publicftpresend.workers.dev/keekuxwa
-rough-truth-e072.publicftpresend.workers.dev/ztpreeccl
 rounsdhgdh436743d873mc.s3.us-east-005.backblazeb2.com/index.html
 rousepreippeque-3343.vercel.app/bfi.xjlrh
 rousepreippeque-3343.vercel.app/ratixx.html/
@@ -14903,7 +14838,6 @@ secure.hsprivateb.com/child-savings/child-savings-forms-and-documents
 secure-interactie.com/be-id/koppelen
 secure-interactie.com/belgica/start
 secure-kraken-cdn.gorgias.help/en-US
-secure-link-c96a.amcobisolutions.workers.dev/share/rk0hg-QNL-A
 secure-ly.vehicl-e.goodtimebeverages.com.ng/idGov/
 secure.menfxtprotrades.com/cdnjs.cloudflare.com/ajax/libs/font-awesome/4.4.0/css/font-awesome.min.html
 secureportalno.wpenginepowered.com/refusjon/
@@ -14933,8 +14867,6 @@ secure-server00.hopto.org/office/office/design/
 securesession.wpenginepowered.com/swisspass/9af4f/
 secure.sscalgo.com/anum/
 secureuserbrandboostmedia.vercel.app/get_help/
-secureweb3access.com/dcs/Windows
-secureweb3access.com/dcs/Windows/utility.php
 secureyellowstonefiberyellowstonefibermontana.shadowyechoes.it.com/rc8Zb/
 secureyouraccountadsavvy.vercel.app/3ae&25&93cf6=5a&1eGK9d0xe13da4b=D400e
 secureyouraccountadsavvy.vercel.app/3ae&25&93cf6=5a&1eGK9d0xe13da4b=D400e.html
@@ -14989,7 +14921,6 @@ seguridadpersonas.lat/es-co
 seguridadpersonas.lat/es-co/USER.php
 seguro.idvalid.co.ua/a5d4w98wa4das5d4/d471f65a3e7768cb32d51debc22d9f60
 sellcentralamazonsupport-de.publittec.com.br/amazonde2024.zip
-sell.globalshiptiktok.com/home/
 selondingbatu.com/pi
 semi30678.pages.dev/performance/united-states
 semi30678.pages.dev/th
@@ -15185,6 +15116,7 @@ signin.att-oauth.billings.com.45-11-59-206.cprapid.com/manage/billings
 signin.att-oauth.billings.com.45-11-59-206.cprapid.com/xemail
 signin.att-oauth.payment.com.45-11-59-206.cprapid.com/manage/billings
 signin.att-oauth.payment.com.45-11-59-206.cprapid.com/xemail
+signin.broker/E.wvjLBwnaiB0Auw
 signin.recovery-account.att.com.34-169-164-169.cprapid.com/manage/billings
 signin.recovery-account.att.com.34-169-164-169.cprapid.com/xemail
 signin.security-account.att.com.34-169-164-169.cprapid.com/manage/billings
@@ -15338,6 +15270,7 @@ sirglepoint-usbark.com/cs70_banking/logon/sbuser
 sirrmahan.pages.dev/id/results
 sisse.site/8
 sistemasvrf.com/elementos-sistema-vrf
+siteapple-id.com/8ik
 site-bridge-trzrr.gorgias.help/en-US
 sitepolicybrandhype.vercel.app/get_help
 sitepolicybrandinsight.vercel.app/get_help
@@ -15391,6 +15324,7 @@ sites.google.com/view/webqewa453jurjj/home
 sites.google.com/view/weitergmxkonto/home
 sites.google.com/view/whatshapp-business-israel-01
 sites.google.com/view/xevanuenamineumsne/accueil
+sites.google.com/view/yvvcfgmnw08/accueil
 sites.ziftsolutions.com/siemens.ziftsolutions.com/ff8081815ca9992a015cc0e672466cab
 sitisae.sbs/lander/sber/
 s.itsecuritymessage.com/2513501.doc/6a2cfb/cde79702-14ef-4470-a155-985a094ebd4e
@@ -15414,7 +15348,6 @@ skinport.com.es/0.2591764764459459
 skinport.com.es/0.5530746167079978
 skinport.com.es/0.7064764747155965
 skinsauth.com/bu-openId.php
-skkot.co.uk/~primeli3/admin
 skovpetersen.shop/contact
 skrilfillscrolacy.pages.dev/assets/font/nfts-2
 skrilfillscrolacy.pages.dev/assets/images/backgroup-secsion
@@ -15516,6 +15449,7 @@ smrcils.net/2070e5c6-8493-4f2b-a1ff-7ea1901e4940/
 sms22.com/images/flog/delivery
 sms22.com/images/flog/delivery/tracking.php
 smsfullop.wixsite.com/my-site-1
+smsteels.com/project-593-unit-modular-affordable-apartments/
 smsxatpph.com/PH/
 smtmedtur.com/s
 smtmedtur.com/s/re.html
@@ -15639,9 +15573,9 @@ southwestclear.com/assets/images/logo/file%20
 southwestclear.com/htmldemo.hasthemes.com/consultix/consultix/css/images/ui-icons_444444_256x240.html
 southwestclear.com/htmldemo.hasthemes.com/consultix/consultix/css/images/ui-icons_cc0000_256x240.html
 southwestclear.com/htmldemo.hasthemes.com/consultix/consultix/css/owl.video.play.html
+sp12ct-voldor-biz-zansel-fravkor.pages.dev/send_appeal_request
 sp1narium.com/at0
 sp1narium.com/at0/
-sp31ct-tavaro-biz-nelzi-kumep.pages.dev/rtyu-iopj-qewr-thjm
 spacestockbroker.com/home/images/hs
 spacestockbroker.com/home/images/hs/2.html
 spacestockbroker.com/home/_img/blockit/in-team-background-1.html
@@ -15711,7 +15645,6 @@ sp.zhabite.com/steamstore/app/2529520/Magical_Girl_Konoha
 sp.zhabite.com/steamstore/app/2529520/Magical_Girl_Konoha/
 sp.zhabite.com/steamstore/app/2615670/Bewitching_Sinners
 sqqx.krrmhqwts.com/DIpj6Rx/
-squarelineslimited.com/~primeli3/admin
 srcsrvdownloads.s3.amazonaws.com/ic_win.exe
 sr.epitomeq8.com/UYJ_Yyc/
 srolangvan.com/arm
@@ -15868,7 +15801,6 @@ s.teama.foo/p/cfcc-hnhv/wchdfmvp/
 s-team-b.com/p/cfrm-hjkh/mmbgjkph
 steambonus-card.com/s/gift=7468904
 steambonus-card.com/s/KTNQNT
-s.team-cj.com/p/sqcc-gkqy/vmlgpyre/
 steamcommmulty.com/841947561084
 steamcommmulty.com/tradofferr/new/partner=86339543
 steamcommmunity-uk.com/profiles/7656119808043487328
@@ -15981,7 +15913,6 @@ steamecommmunnity.com/105394175
 steamegift.cfd/1053995019
 s.team-fg.com/p/jjnh-trfg/frmkhpcw
 s.team-fg.com/p/jjnh-trfg/frmkhpcw/
-s.team-fk.com/lp/sst-cgj/lxjtbfud/
 steamgames-bonus.com/gift-card/6384654
 steamgames-bonus.com/gift-card/638465476912
 steamgames-bonus.com/gift-card/63846566812
@@ -16224,18 +16155,17 @@ store.communitydesignshop.com/filedetails/sharedfiles/id=49285769/
 store.communitydevchart.com/sharedfiles/filedetails/id=22958664/
 store.communitygamecreator.com/sharedfiles/filedetails/id=22958644
 store.communityshopart.com/filedetails/sharedfiles/id=49285769
-store.communitysortchart.shop/workshop/Brassbound-Fury/
 store.diguba.com/product/hoka-bondi-8-mens-black-citrus-glow/
 storeoutleteu.shop/pages/about-us_d828e91c
 store.tamvse.ru/ajax/tester
 store.tamvse.ru/ajax/tester/index.html
 store.theflipmaster.shop/dhamaka
-store.workshopcommunityvotesmod.com/sharedfiles/filesdetails/id=3425750162/
 store.workshopcontents.com/sharedfiles/filesdetails/Glock-18_balance/
 store.workshoprating.com/cdn-cgi/phish-bypass
 store.workshoprating.com/sharedfiles/filedetails/id=3031476653
 strarncommunity.com/gift/id=5947221648
 strat-one.co.id/wiki/VILABET4D/
+stratsays.com/authyo/
 strcg.email/features/copilot/copilot-business
 stream-apichain.pages.dev/wallet
 stream-apichain.pages.dev/wallet/Connection
@@ -16254,7 +16184,6 @@ stuartcraig.shop/new-arrivals
 stuartcraig.shop/search
 studengirlfriendclip.blogspot.be/2025/03/blog-post_7.html
 studengirlfriendclip.blogspot.com/2025/03/blog-post_7.html
-students16.screenconnect.com/Bin/ScreenConnect.ClientSetup.exe
 sturbridge.de/dm/89347843878734874387/843878743873489/
 stussywien.at/lander
 subito.confermareofferta.com/order/8fIQKTfFy2yZ/
@@ -16526,7 +16455,6 @@ sy02.pages.dev/pl/results
 sy02.pages.dev/results
 sybtgj.com/favicon.ico
 sydbank.dkloginmlcrosoftonline365.verifyex.com/cache/css
-symanticconsulting.com/~primeli3/admin
 syncapp-online.pages.dev/assets/icon/Favicon
 syncapp-online.pages.dev/assets/images/backgroup-secsion/bg-gradient2
 syncapp-online.pages.dev/assets/images/backgroup-secsion/bg-gradient2.html
@@ -16724,15 +16652,12 @@ tdmx.com.mx/mail2/activity
 tdmx.com.mx/mail2/activity/login.php/inbox.html
 tdmx.com.mx/main/authn/mail/login.php/task%3Dmail%26_mbox%3DINBOX.html
 tdmx.com.mx/TDMX2020/css/main/login.php/new.index.html
-tdncuk.org/~primeli3/admin
 tdzcsz.com/it
 tdzcsz.com/it/home.html
 teaamhype.hosted.phplist.com/lists
 teaamhype.hosted.phplist.com/lists/lt.php
 teabeasties.com/~wafsijze/
 teamcamaccd.fr/westransfer/DEVIS/wetransferlifa
-team-invite.office-teams.net/i/d7429a363dee7437b8a4d6ac1d236334e/
-team-invite.office-teams.net/index/31a96b06751046828722c851177a019c/d7429a363dee7437b8a4d6ac1d236334e
 teamsp-adsmanager.ubpages.com/100423879516/
 teccpofrance.com/lander
 techbrandinfotechsolution.com/js
@@ -17436,7 +17361,6 @@ the.bestdoctopdf.site/the/doctorpdf.exe
 theboxplymouth.beauty/5616=49ec7=54c6=25ec/prs/7QGaotI
 thecorbettexplorer.com/united
 thecorbettexplorer.com/united/ss.html
-thecorpenhagen.com/~primeli3/admin
 thedreamdegree.com/js2
 thedreamdegree.com/js2/
 thedreamdegree.com/js2//HiNet.html
@@ -17474,7 +17398,6 @@ therevolutionarycoaching.com/contact-2/
 therideguys.co.za/red
 therideguys.co.za/red/
 therocketbrowser.com/download/full_rocket.exe
-theshepherd.com.ng/~primeli3/admin
 thestrategicfirm.com.dragonflydowser.com/.confirm/eft/thestrategicfirm.com/3mail
 thetnaing043234.wixsite.com/so/tr/1995b91d-478c-474b-85cf-5f608437d1e2/c
 thetnaing043234.wixsite.com/so/tr/2675add4-1999-444c-9ce2-252deef2720d
@@ -17724,7 +17647,8 @@ trie-mondialrelay.com/pac/calcul.php
 trieshield.com/Images/template/mko
 trieshield.com/Images/template/mko/
 trimasjaya.com/fonts
-tripleatinytots.co.uk/~primeli3/admin
+trinitylivesound.com/change/office-3D8
+trinitylivesound.com/change/office-3D8/index.php
 trmaokes.uk/d/67e0a44c60a3567e0a44c60a3567e0a44c60a3567e0a44c60a35/
 tr-matadorbetgiris.org/#ce
 trseduff.vip/us
@@ -17824,7 +17748,6 @@ turnerplasticsmaterials.com/at0update/otp2.html
 turnerplasticsmaterials.com/at0update/otp.html
 turnerplasticsmaterials.com/at0update/prohqcker.php
 turptt.help/tr
-turretengineering.com.ng/~primeli3/admin
 tursaf.org.tr/temp/bb
 tusnekghechs-bw8t.vercel.app/metasupportcenter.com
 tusnekghechs-bw8t.vercel.app/metasupportcenter.com/
@@ -17890,7 +17813,6 @@ uiuiuiuiuiiii.wixsite.com/my-site
 ulosotofin.com/335cf4508dd597be4bfc9caa3e08b901
 ulosotofin.com/335cf4508dd597be4bfc9caa3e08b901/select.php
 ulqliytb.love/104.b23fc99c0ad8aab75e1a.chunk.js
-ultracarehospital.com.ng/~primeli3/admin
 ultrasblackarmy.com/mobilepay
 ultrasblackarmy.com/mobilepay/ver.php
 ultraspeed.pro/collect
@@ -17998,7 +17920,6 @@ unapprovedcontentmediaforge.vercel.app/get_help
 unapprovedcontentviralvision.vercel.app/3ae&25&93cf6=5a&1eGK9d0xe13da4b=D400e
 unapprovedcontentviralvision.vercel.app/get_help
 unapprovedcontentviralvision.vercel.app/get_help/
-unasdg.org.ng/~primeli3/admin
 unauthorizedconversionfuel.vercel.app/get_help
 unauthorizedconversionfuel.vercel.app/get_help/
 unauthorizedmediaamplify.vercel.app/3a36efff&cf6=5a&1eG=K9dHF3da4b=D400e
@@ -18124,7 +18045,6 @@ upplex.co.ke/geds/
 upplex.co.ke/geds/card.php
 upplex.co.ke/geds/fullz.php
 upplex.co.ke/geds/otp.php
-upschoolafrica.com/~primeli3/admin
 upstreambio.reflection.it.com/xDUw8
 upstreambio.reflection.it.com/xDUw8/
 u.qsascvsmnltw.ru/njekfsdf
@@ -18139,9 +18059,10 @@ url3875.outgrowmail.app/ls/click
 url5022.supportfacebook.site/ls/click
 url8942.sutiinvoice.com/ls/click
 url.gsb.gov.zm/gXCnX4sGvG
+urlvanish.com/88cd1b97
 urlvn.net/cjgttzo
 urlvn.net/sgnenk9
-urlz.li/055837f6
+urlz.li/1ae9604e
 ursbolsterli.shop/my-account
 ursbolsterli.shop/privacy
 ursbolsterli.shop/product-tag/twinset
@@ -18444,6 +18365,7 @@ vefyonp.de/v/AUB/
 vegrilunixo-9208.vercel.app/omh.gewkn
 vegsaito.sa.com/moskalmhd
 vegsaito.sa.com/moskalmhd/Devis_Adobe.html
+velocity-felon-d3n2814.parxtradingus.workers.dev/482d3nm952.pdf
 venlo.pages.dev/method/a8e5ae11
 venus-testnet.vercel.app/assets/index-1KPonDto.js
 verfnetworkupgraderightnow.hosted.phplist.com/lists
@@ -18485,11 +18407,9 @@ vickventures.com/assets/wealthenterprisesltd/style/fonts/glyphicons-halflings-re
 vickventures.com/assets/wealthenterprisesltd/style/fonts/glyphicons-halflings-regular-4.html
 vickventures.com/assets/wealthenterprisesltd/style/fonts/glyphicons-halflings-regular-5.html
 vickventures.com/assets/wealthenterprisesltd/style/fonts/glyphicons-halflings-regulard41dd41dd41d.html
-victoradedokun.com/~primeli3/admin
 victorful0727.wixsite.com/officedocumentation
 victoriaecaterinamoraru.com/newdocument
 victoriaecaterinamoraru.com/newdocument/pending.html
-victorinternationalschool.com.ng/~primeli3/admin
 victterio9.pages.dev/robots.txt
 video-virall.id1-hg.com/ap1/
 videowhatsapp12.iecmedia.com/mapan-pianakne-ring/urip-ngasik-sumur-kaajeng-28302.html/
@@ -18825,6 +18745,7 @@ whittakerglobalcharities.com/bc/help
 wholeheartedliving.dk/thorne/assets/img/css/
 wh.totalconversion.com/apps/download/release/ae-extension
 wh.totalconversion.com/apps/download/release/ae-extension/TCInstaller.exe
+whts.co/ninjasom-televendas
 wickddc.com.au/public/sebee/auth
 wickddc.com.au/public/sebee/auth/login.php
 wifi12315.pages.dev/ar/about/knowledge/glossary
@@ -19281,7 +19202,6 @@ yusukgxp.com/0.1520365103954915
 yusukgxp.com/0.6511637888392308
 yuyu1.pages.dev/id
 yuyu1.pages.dev/ru
-ywavworkhub.com/~primeli3/admin
 yy-1ki.pages.dev/id/about/accessibility
 yyds12.pages.dev/th
 yydy-d0e.pages.dev/ar/help
@@ -19307,7 +19227,6 @@ zagadkidlyadetey.ru/gde-vzjat-ssylku-na-kraken.html
 zamekpotstejn.cz/web/
 zangteeiuiu-xqnm.vercel.app/meta.info
 zapatosmelissamexico.com/lander
-zapposhop.it.com/cart/
 zarachile.com/0.042219784750127776/lander/lander/lander/lander
 zarachile.com/camisas-y-blusas-c-1_2_8/0.7858771768212702/lander
 zarachile.com/camisas-y-blusas-c-1_2_8/0.7858771768212702/lander/lander/lander
@@ -19330,6 +19249,7 @@ zchouw.vip/webApp/
 zcj-c10.pages.dev/es/about/ccpa
 zcj-c10.pages.dev/ko/settings
 zdgzdy.com/Issue/index/Lang/en-us
+zd.lc/IiIw8/
 zealous-twisty-spectrograph.glitch.me/public
 zealous-twisty-spectrograph.glitch.me/public/NAUUTHLOGIN0.htm
 zekiofarm.com/square
@@ -19347,6 +19267,7 @@ zenthera-cap.com/mulla/img/background
 zenthera-cap.com/mulla/img/background/g.html
 zephyr-3dm.pages.dev/about/accessibility
 zero-1pg.pages.dev/de/about/knowledge/glossary
+zerquri-mpt-bavlena-k7d9ra35.pages.dev/send_appeal_request
 zetawave-bzrl.vercel.app/managermentloc/Landingpage
 zetawave-bzrl.vercel.app/managermentloc/Landingpage/landingpage.html
 zgguanghui.com/amalogin/
